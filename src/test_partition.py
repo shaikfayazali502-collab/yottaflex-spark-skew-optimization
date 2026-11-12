@@ -1,5 +1,5 @@
 import sqlite3
-from partition_replacement import partition_replacement
+from src.partition_replacement import partition_replacement
 
 
 def test_december_data_is_preserved():
