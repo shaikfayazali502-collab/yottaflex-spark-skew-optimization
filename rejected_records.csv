@@ -1,0 +1,5 @@
+order_id,customer_id,amount,status,rejection_reason
+503,5003,-500,Completed,Invalid order amount
+504,,1500,Pending,Missing customer ID
+501,5005,2500,Completed,Duplicate order ID
+505,5006,1000,Unknown,Invalid order status
